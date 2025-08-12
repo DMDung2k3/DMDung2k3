@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My AI/ML & Embedded Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Edge+Computing+Specialist;Computer+Vision+Expert;Deep+Learning+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Embedded+Engineer;Edge+Computing;Computer+Vision;Deep+Learning+Enthusiast" alt="Typing SVG" />
 
 ### 🤖 **Đỗ Mạnh Dũng** | AI/ML & Embedded Engineer & Researcher
 *Transforming ideas into intelligent solutions*
