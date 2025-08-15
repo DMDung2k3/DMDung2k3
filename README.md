@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🚀 Welcome to My AI/ML & Embedded Universe
+# 🚀 Welcome to My AI/ML Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Embedded+Engineer;Edge+Computing;Computer+Vision;Deep+Learning+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Edge+Computing;Computer+Vision;Deep+Learning+Enthusiast" alt="Typing SVG" />
 
-### 🤖 **Đỗ Mạnh Dũng** | AI/ML & Embedded Engineer & Researcher
+### 🤖 **Đỗ Mạnh Dũng** | AI/ML Engineer & Researcher
 *Transforming ideas into intelligent solutions*
 
 </div>
